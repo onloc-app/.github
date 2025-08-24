@@ -9,4 +9,4 @@
 ## What is Onloc?
 The easiest and most complete self-hosted solution for locating, tracking, and finding your devices. Keep tabs on your gear—without tech corporations snooping on you.
 
-To deploy Onloc, visit https://github.com/Calvicii/onloc-deployment
+To deploy Onloc, visit https://github.com/onloc-app/onloc-deployment
