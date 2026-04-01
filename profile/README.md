@@ -17,6 +17,6 @@ Help us translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/)
 ### Donations
 Donations are greatly appreciated and help us develop Onloc!
 
-<a href="https://liberapay.com/calvicii/donate">
+<a href="https://liberapay.com/Calvicii/donate">
     <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
 </a>
