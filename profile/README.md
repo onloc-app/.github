@@ -7,4 +7,7 @@ The easiest and most complete self-hosted solution for locating, tracking, and f
 
 To deploy Onloc, visit https://onloc.app/docs/category/self-host/
 
+### Translation
+Help us translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/)
+
 <a href="https://liberapay.com/calvicii/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
