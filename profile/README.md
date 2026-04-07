@@ -3,7 +3,7 @@
 </p>
 
 ## What is Onloc?
-The easiest and most complete self-hosted solution for locating, tracking, and finding your devices. Keep tabs on your gear—without tech corporations snooping on you.
+The easiest and most complete self-hosted solution for locating, tracking, and finding your devices. Your data under your control.
 
 To deploy Onloc, visit https://onloc.app/docs/category/self-host/
 
