@@ -7,6 +7,9 @@ The easiest and most complete self-hosted solution for locating, tracking, and f
 
 To deploy Onloc, visit https://onloc.app/docs/category/self-host/
 
+### Documentation
+The documentation can be found on [onloc.app](https://onloc.app/docs/overview) or in the [website's repository](https://github.com/onloc-app/onloc-website/tree/main/docs) here on GitHub.
+
 ### Translation
 Help us translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/)
 
