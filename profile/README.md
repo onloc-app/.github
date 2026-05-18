@@ -13,9 +13,9 @@ The documentation can be found on [onloc.app](https://onloc.app/docs/overview) o
 ### Translation
 Help us translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/)
 
-<a href="https://hosted.weblate.org/engage/onloc/">
-    <img src="https://hosted.weblate.org/widget/onloc/svg-badge.svg" alt="Translation status" />
-</a>
+[![Translation status](https://hosted.weblate.org/widget/onloc/svg-badge.svg)](https://hosted.weblate.org/engage/onloc/)
+
+[![Translation status](https://hosted.weblate.org/widget/onloc/multi-auto.svg)](https://hosted.weblate.org/engage/onloc/)
 
 ### Donations
 Donations are greatly appreciated and help us develop Onloc!
