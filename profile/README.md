@@ -7,10 +7,10 @@ The easiest and most complete self-hosted solution for locating, tracking, and f
 
 To deploy Onloc, visit https://onloc.app/docs/category/self-host/
 
-### Documentation
+## Documentation
 The documentation can be found on [onloc.app](https://onloc.app/docs/overview) or in the [website's repository](https://github.com/onloc-app/onloc-website/tree/main/docs) here on GitHub.
 
-### Translation
+## Translation
 Help translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/).
 
 [![Translation status](https://hosted.weblate.org/widget/onloc/svg-badge.svg)](https://hosted.weblate.org/engage/onloc/)
@@ -20,7 +20,7 @@ Help translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/).
 ## Star us ⭐
 If you find this project useful, please consider starring the [main repository](https://github.com/onloc-app/onloc). It helps increase visibility and supports continued development.
 
-### Donations
+## Donations
 Donations are greatly appreciated and help me develop Onloc!
 
 <a href="https://liberapay.com/Calvicii/donate">
