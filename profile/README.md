@@ -17,6 +17,9 @@ Help translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/).
 
 [![Translation status](https://hosted.weblate.org/widget/onloc/multi-auto.svg)](https://hosted.weblate.org/engage/onloc/)
 
+## Star us ⭐
+If you find this project useful, please consider starring the [main repository](https://github.com/onloc-app/onloc). It helps increase visibility and supports continued development.
+
 ### Donations
 Donations are greatly appreciated and help me develop Onloc!
 
