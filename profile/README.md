@@ -11,14 +11,14 @@ To deploy Onloc, visit https://onloc.app/docs/category/self-host/
 The documentation can be found on [onloc.app](https://onloc.app/docs/overview) or in the [website's repository](https://github.com/onloc-app/onloc-website/tree/main/docs) here on GitHub.
 
 ### Translation
-Help us translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/)
+Help translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/)
 
 [![Translation status](https://hosted.weblate.org/widget/onloc/svg-badge.svg)](https://hosted.weblate.org/engage/onloc/)
 
 [![Translation status](https://hosted.weblate.org/widget/onloc/multi-auto.svg)](https://hosted.weblate.org/engage/onloc/)
 
 ### Donations
-Donations are greatly appreciated and help us develop Onloc!
+Donations are greatly appreciated and help me develop Onloc!
 
 <a href="https://liberapay.com/Calvicii/donate">
     <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
