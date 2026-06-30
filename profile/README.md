@@ -11,7 +11,7 @@ To deploy Onloc, visit https://onloc.app/docs/category/self-host/
 The documentation can be found on [onloc.app](https://onloc.app/docs/overview) or in the [website's repository](https://github.com/onloc-app/onloc-website/tree/main/docs) here on GitHub.
 
 ### Translation
-Help translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/)
+Help translate Onloc on [Weblate](https://hosted.weblate.org/projects/onloc/).
 
 [![Translation status](https://hosted.weblate.org/widget/onloc/svg-badge.svg)](https://hosted.weblate.org/engage/onloc/)
 
